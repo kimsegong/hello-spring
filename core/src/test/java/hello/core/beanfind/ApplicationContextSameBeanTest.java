@@ -15,7 +15,7 @@ import java.util.Map;
 
 import static org.assertj.core.api.Assertions.*;
 
-public class applicationContextSameBeanTest  {
+public class ApplicationContextSameBeanTest {
 
     AnnotationConfigApplicationContext ac = new AnnotationConfigApplicationContext(SameBeanConfig.class);
 
