@@ -15,7 +15,7 @@ import org.springframework.context.annotation.Configuration;
 public class AppConfig {
 
     @Bean
-    public MemberService memberService() {
+    public MemberService memberService() {  // 추석연휴 동안 정확히 알고넘어가기
         System.out.println("call AppConfig.memberService");
         return new MemberServiceImpl(memberRepository());
     }
