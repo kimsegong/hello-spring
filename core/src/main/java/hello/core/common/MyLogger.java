@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 import java.util.UUID;
 
 @Component
-@Scope(value = "request") // 추석마지막연휴 아자아자
+@Scope(value = "request") // 안녕하세요
 
 public class MyLogger {
 
