@@ -12,6 +12,7 @@ OOP 는 컴퓨터 프로그램을 명령어의 목록으로 보는 시각에서 
 
 
 <h3>🌈 SOLID - 좋은 객체 지향 설계의 5가지 원칙</h3>
+
 <strong>SRP: 단일 책임 원칙(single responsibility principle)</strong><br>
 한 클래스는 하나의 책임만 가져야 한다.<br>
 
